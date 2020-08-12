@@ -1,0 +1,202 @@
+Accounting (ACTG)
+134 Accounting Information Systems
+
+Anthropology (ANTH)
+4 Vanished Peoples & Lost Civilizations
+
+5 Biological Anthropology & Popular Culture
+
+132 Paleoanthropology
+
+133 Human Nutrition & Culture: A Biocultural Perspective
+
+134 Health, Disease, & Culture
+
+135 Human Development & Sexuality
+
+136 Introduction to Forensic Anthropology
+
+137 Evolutionary Medicine
+
+138 Biology and Poverty
+
+140 Food, Culture, & Environment
+
+145 Historical Ecology
+
+147 The Archaeology of Complex Societies
+
+189 North American Prehistory
+
+197 Field Course in Primate Behavioral Ecology
+
+Arts (ARTS)
+36 Ditto! The Technology of Print
+
+Biology (BIOL)
+109 Genetics & Society
+
+117 Epidemiology L&L
+
+135 Biofuels: Sustainable Energy for the Future?
+
+142 Natural History of California L&L
+
+153 Conservation Science
+
+159 Plagues in the Age of Insects
+
+171 Social & Ethical Dimensions of Biotechnology
+
+Business (BUSN)
+150 Feeding the World
+
+Chemistry (CHEM)
+103 Environmental Chemistry
+133 Medicinal Chemistry
+
+
+Child Studies (CHST)
+75 Technology and Education
+
+Classics (CLAS)
+171 Ancient Science and Technology
+
+Communication (COMM)
+12 Technology & Communication
+
+119A Body Politics
+
+149B Science News
+
+164A Race, Gender, & Public Health in the News
+
+176A Biology of Human Communication
+
+Computer Sciences (CSCI)
+3 Introduction to Computing & Applications
+
+10 Introduction to Computer Science (only partially fills the requirement for Engineering students only)
+
+10B Introduction to Computer Science B (only partially fills the requirement for Engineering students only)
+
+Engineering (ENGR)
+1 Introduction to Engineering AND 1L Introduction to Engineering Lab
+
+60 Sustainable Electric Energy
+
+121 BioInnovation I: Opportunity Identification and Concept Generation (only partially fills the requirement for Engineering students only)
+
+122 BioInnovation II: Product Development Strategy and Prototyping (only partially fills the requirement for Engineering students only)
+
+160 Nanotechnology & Society
+
+English (ENGL)
+25 Textual Editing
+
+108 Writing in STEM
+
+109 Information Culture & Information Society
+
+181 Engineering Communications (only partially fills the requirement for Engineering students only)
+
+Environmental Studies (ENVS)
+10 The Joy of Garbage
+
+80 Energy & the Environment
+
+115 GIS in Environmental Studies
+
+135 Biofuels: Sustainable Energy for the Future?
+
+137 Historical Ecology
+
+145 Environmental Technology
+
+153 Conservation Science
+
+158 Conservation Psychology
+
+185 Garbology
+
+Experiential Learning for Social Justice (ELSJ)
+135 Research in Social Entrepreneurship
+
+History (HIST)
+79/179 History of Technology: Steam to Cyborgs
+
+113 Seeing: Visual Culture and Technology
+
+123 History of Plagues, Epidemics, and Infections
+
+125 History of the Senses
+
+Honors (HNRS)
+20S Difficult Dialogues (Technology for Social Justice)
+
+Management (MGMT)
+177 Managing with the Internet
+
+Mechanical Engineering (MECH)
+144 Smart Product Design
+
+Music (MUSC)
+119 Music, Technology, & Society
+
+Neuroscience (NEUR)
+1 Introduction to Neuroscience
+
+Operations Management and Information Systems (OMIS)
+34 Science, Information Technology, Business, & Society
+
+Philosophy (PHIL)
+40 Science, Technology, & Society
+
+83 Neuroscience, Values, & Law
+
+153 Philosophy of Science
+
+165 Philosophical Issues in Virtual Reality
+
+Physics (PHYS)
+5 The Physics of Star Trek
+
+8 Intro to Space Sciences
+
+103 Analytical/Numerical Methods (only partially fills the requirement for Physics students only)
+
+192 Physics and Society (only partially fills the requirement for Physics students only)
+
+Psychology (PSYC)
+50 Ways of Knowing
+
+83 Neuroscience, Values, & Law
+
+158 Conservation Psychology
+
+Public Health Sciences (PHSC)
+1 Human Health & Disease
+
+28 Human Sexuality
+
+100 Introduction to Epidemiology
+
+120 Technology, Innovation, & Public Health
+
+Sociology (SOCI)
+49 Computer, Internet, & Society
+
+120 Quantitative Methods & Applied Stats
+
+149 Business, Technology, & Society
+
+164 Collective Behavior
+
+Women’s and Gender Studies (WGST)
+33 Human Sexuality
+
+105A Body Politics
+
+107A Science, Sex, and the Body
+
+116 Race, Gender, & Public Health in the News

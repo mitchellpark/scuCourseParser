@@ -1,0 +1,218 @@
+Studio Art (ARTS)
+30 Basic Drawing
+
+32 Two Dimensional Design
+
+33 Three-Dimensional Design
+
+35 Introduction to Graphic Arts: Basic Printmaking
+
+36 Ditto! The Technology of Print
+
+37 Introduction to Painterly Printmaking
+
+43 Basic Painting
+
+45 Basic Outdoor Painting - Landscapes
+
+46 Basic Watercolor
+
+48 Basic Mixed Media
+
+50 Black and White Film and Darkroom Photography
+
+57 Digital Photography
+
+63 Basic Ceramic Sculpture
+
+64 Basic Sculpture
+
+72 Digital Art and Design Basics
+
+74 Basic Digital Imaging
+
+75 Brand Identity: Basic Graphic Design
+
+85 Interactive Immersive Art I
+
+135 Intermediate Printmaking
+
+138 Slow Tech: Critical Making with the Letterpress
+
+143 Intermediate Painting
+
+146 Watercolor II
+
+148 Mixed Media II
+
+150 Intermediate Film Photography
+
+151 Exploring Society through Photography
+
+155 Photography on Location
+
+157 Digital Photography
+
+159 Digital Storytelling Through the Visual Arts
+
+163 Intermediate Ceramics
+
+164 Intermediate Sculpture
+
+173 Introduction to 3D Animation & Modeling/ Modeling & Control Rigid Body Dynamics
+
+174 Intermediate Digital Imaging
+
+175 Graphic Design II
+
+179 Intro to Two-Dimensional Animation
+
+Child Studies (CHST)
+109 Children, Arts, & Society
+
+Communication (COMM)
+30 Introduction to Digital Film Making
+
+131B Short Fiction Production
+
+132B Short Documentary Production
+
+162B Visual Cultural Communication
+
+Computer Engineering (COEN)
+165 3D Animation & Modeling
+
+Dance (DANC)
+40 Beginning Jazz Dance
+
+41 Beginning Intermediate Jazz Dance
+
+42 Intermediate Jazz Dance
+
+43 Beginning Ballet
+
+44 Beginning Intermediate Ballet
+
+45 Intermediate Ballet
+
+46 Beginning Modern/Contemporary Dance
+
+47 Beginning Intermediate Modern/Contemporary Dance
+
+48 Intermediate Modern/Contemporary Dance
+
+49 Dance Composition
+
+50 Beginning Tap Dance
+
+51 Beginning Intermediate Tap Dance
+
+52 Afro-Haitian Dance
+
+55/155 Musical Theatre Dance Styles
+
+59/159 Teaching the Performing Arts
+
+69/169 Walk Across California
+
+140 Intermediate Advanced Ballet
+
+141 Advanced Ballet
+
+142 Intermediate Advanced Jazz Dance
+
+143 Choreography
+
+145 Advanced Jazz Dance
+
+146 Intermediate Advanced Modern/Contemporary Dance
+
+159 Teaching the Performing Arts
+
+English (ENGL)
+71 Fiction Writing
+
+72 Poetry Writing
+
+73 Life Writing
+
+116 Slow Tech: Critical Making with the Letterpress
+
+170 Writing for Children & Young Adults
+
+171 Advanced Fiction Writing
+
+173 Screenwriting
+
+176 Creative Writing & Social Justice
+
+177 Writing Genre Fiction
+
+Music (MUSC)
+1 Music Theory I
+
+1A Musicianship I
+
+2 Music Theory II
+
+2A Musicianship II
+
+8 Introduction to Listening: Western Music
+
+9 Introduction to Listening: Electronic Music
+
+30 Beginning Piano
+
+34 Beginning Voice Class
+
+36 Beginning Guitar
+
+37 Beginning Composition Class
+
+40/140 University Orchestra
+
+42/142 Concert Choir
+
+43/143 Chamber Singers
+
+45/145 Jazz Band
+
+46/146 Jazz Combo Workshop
+
+54/154 Wind Symphony
+
+115 Experimental Sound Design
+
+156 Improvisation
+
+157 Laptop Orchestra
+
+Philosophy (PHIL)
+35 The Ethics in Drama, the Drama in Ethics (cross-listed with THTR 60)
+
+Theatre (THTR)
+7 Improv
+
+8 Acting
+
+10 Intro to Performance Collaboration
+
+21 Voice I: Voice, Speech, & Presentation Skills
+
+24 Intermediate Acting
+
+30 Introduction to Design
+
+31 Introduction to Production
+
+32 Costume Construction
+
+33 Stage Lighting
+
+60 The Ethics in Drama, the Drama in Ethics (cross-listed with PHIL 35)
+
+133 Scenic Design
+
+134 Costume Design
+
+173 Screenwriting

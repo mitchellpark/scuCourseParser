@@ -1,0 +1,144 @@
+ARABIC (ARAB)
+21 Intermediate Arabic I
+22 Intermediate Arabic II
+23 Intermediate Arabic III
+50 Intermediate Arabic Conversation
+
+CHINESE (CHIN)
+21 Intermediate Chinese I
+22 Intermediate Chinese II
+23 Intermediate Chinese III
+100 Advanced Chinese I
+101 Advanced Chinese II
+102 Advanced Chinese III
+127 Chinese History and Culture
+
+CLASSICS (CLAS)
+21 Elementary Greek I 
+22 Elementary Greek II 
+23 Elementary Greek III 
+1,2,3 Elementary Latin I, II, III
+
+FRENCH (FREN)
+21 French Language and Francophone Cultures I 
+21A Close Encounters of a Different Kind: Tales and Legends from the Francophone World  
+22 French Language and Francophone Cultures II 
+22A Language, Film, & Youth Culture
+50 Intermediate French Conversation
+100 Introduction to French and Francophone Studies
+101 Introduction to Literary and Cultural Analysis
+102 Advanced French III
+103 Critical Writing in French
+103A (W)rites of Passage: French Writing Workshop
+104 The Art of Story-Telling: Creative Writing Workshop
+105 Across Language Borders: Interpretation and Translation
+106 Oral Communication in French 
+108 French for a Global Marketplace
+110 Contemporary France: Cultures, Society and Politics 
+111 Introduction to the Francophone World
+113 Sub-Saharan African/Caribbean Women Writers
+114 Literatures and Cultures of the Maghreb
+115 French Literature & Culture I
+116 French Literature & Culture II
+117 French Orientalism: Representation of Otherness in Literature, Cinema, and Visual Arts
+150 The French Revolution in a Global Context
+171 20th-Century France: War, Memory, and Trauma 
+172 Introduction to French Cinema
+173 Immigration, Race, and Identity in Contemporary France
+174 French and Francophone Novels and Films: Culture, Gender, and Class
+175 Transnational Cinema
+176 French Perspectives on Social Justice
+182 Women in French Literature
+183 20th- and 21st-Century French Women Writers
+185 Sociolinguistics: The Francophone World
+186 Politics of Love
+
+GERMAN (GERM)
+21 Intermediate German I
+22 Intermediate German II
+23 Intermediate German III
+100 Advanced German I
+101 Advanced German II
+106 Advanced German Conversation
+108 German Business Culture and Institutions
+110 History of German Civilization
+111 Contemporary German Civilization
+112 German in the Media
+113 German Film: From Fassbinder to Fatih Akin
+140 German Fairy Tales
+150 20th Century Novel
+160 The German Novelle
+174 German Novels and Films
+182 Women in German Literature: Authors and Characters
+
+ITALIAN (ITAL)
+21 Intermediate Italian I
+22 Intermediate Italian II
+50 Intermediate Italian Language & Culture
+100 Introduction to Italian Culture
+101 Italian Food Culture
+102 Made in Italy and Italian Entrepreneurship
+106 Advanced Italian Conversation
+108 Translation Workshop
+113 Introduction to Italian Cinema
+114 Contemporary Italian Culture
+120 Italian Literature and Culture I
+121 Italian Literature and Culture II
+125 Colloquium: Italian Literature and Culture
+154 Nature and the Italian Literary Imagination
+180 Novecento Italian Literature of the 20th Century
+182 20th-Century Italian Women Writers
+183 Women in Italian Cinema: The Impact of Globalization
+187i Destination Italy: Immigration in Film and Literature
+
+JAPANESE (JAPN)
+21 Intermediate Japanese I
+22 Intermediate Japanese II
+23 Intermediate Japanese III
+100 Advanced Japanese I
+101 Advanced Japanese II
+102 Advanced Japanese III
+113 Readings in Japanese I
+114 Readings in Japanese II
+115 Readings in Japanese III
+
+SPANISH (SPAN)
+21 Crossing Boundaries (Intermediate) 
+21A News and Culture in the Hispanic World (Intermediate)
+21EL Intermediate Spanish I. Experiential Learning
+22 Latino Cultures and Identities in Contemporary Film (Intermediate)
+22EL Immigration Stories: Cultural, Political, and Personal Narratives (Intermediate)
+23 Activism and Social Justice in the Spanish-speaking World (Intermediate)
+23EL Experiential Learning (Intermediate) 
+100 Introduction to Cultural Analysis in Spanish 
+101 Discourse and Interpretation: Introduction to Literature and Film Analysis in Spanish 
+101M Discourse and Interpretation: Narratives of Migration
+102 Introduction to Hispanic Linguistics
+103 The Structure of Spanish Words and Phrases
+107 Writing Workshop
+108 The Art of Narrative Nonfiction: Creative Writing Workshop
+110 Oral Communication in Spanish
+112 Mexican Culture
+113 The Revolution in Mexican Culture
+114 Culture and Society of the U.S-Mexico Border
+123 Contemporary Spanish Culture
+125 Colloquium: Spanish Literature and Culture
+130 Survey of Latin American Literature I
+131 Survey of Latin American Literature II
+132 Hispanic Voices for Social Change
+133 Mexican American Literature
+135 Colloquium: Latin American Literature and Culture
+136 Contemporary Latin American Short Story
+137 Latin American Cultures and Civilizations
+138 Hispanic Poetry
+139 Haunted Literature: Ghosts and the Talking Dead in Latin American Narrative
+143 Detective Short Story
+146 Latin American Documentary
+147 Cinema, Politics, and Society in Latin America
+148 20th-Century Latin American Women Writers
+156 Representations of the Migrant Condition in Contemporary Spain
+165 Cervantes: Don Quijote
+170 Spanish & the Community
+175 History of the Spanish Language
+176 Spanish and Latinxs in the United States
+

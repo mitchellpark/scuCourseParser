@@ -1,0 +1,80 @@
+Classics (CLAS)
+149 Ancient and Modern Ethics
+
+Engineering (ENGR)
+19 Ethics in Technology
+
+Management (MGMT)
+6 Business Ethics
+
+Philosophy (PHIL)
+21 Introduction to Ethics
+
+21B Introduction to Ethics in Chinese Philosophy
+
+21BH Ethics in Chinese Philosophy: Honors
+
+22 Ethics in the Digital Age
+
+23 Ethics & Gender
+
+24 Ethics and Gender in Film
+
+25 Ethics in Society
+
+26 Ethics in Business
+
+27 Ethics in Healthcare
+
+28 Ethics in Politics
+
+29 Ethics and the Environment
+
+30 Ethics and the Law
+
+31 Ethics and Marginalized Persons
+
+32 Neuroethics
+
+33 Ethics and Race
+
+34 Ethics and Adulthood
+
+35 The Ethics in Drama, the Drama in Ethics (cross-listed with THTR 60)
+
+110 Classical Issues in Ethics
+
+112 Ethics, Authenticity, Freedom, and Vocation
+
+117 Bioethics & the Law
+
+118 Ethics & Constitutional Law
+
+119 Ethics and Criminal Law
+
+120 Feminism & Ethics
+
+121 Political Philosophy and Ethics
+
+127 Marx & Ethics
+
+165 Philosophical Issues in Virtual Reality
+
+Psychology (PSYC)
+114 Ethics in Psychology
+
+Public Health Science (PHSC)
+7 Public Health and Ethics
+
+Theatre (THTR)
+60 The Ethics in Drama, the Drama in Ethics (cross-listed with PHIL 35)
+
+Theology, Ethics and Spirituality (TESP)
+159 Ethics of War & Peace
+
+Women’s and Gender Studies (WGST)
+58 Ethics & Gender
+
+184 Feminism & Ethics
+
+189 Sex, Law and Social Justice: The Politics of Advocacy
